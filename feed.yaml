@@ -1,0 +1,13 @@
+title: Daily Gold rate update
+description: A simple file to update the gold rate in INR daily from rapidAPI using Git Actions
+author: Anandhu Nadesh
+language: en-us
+category: commerce
+format: text
+link: https://github.com/Macromaniak/gold-rate
+item:
+  - date: May 3 2024
+    14carat: 3597.8275516964795
+    18carat: 4625.778280752617
+    22carat: 5653.729009808753
+    24carat: 6167.704374336822
